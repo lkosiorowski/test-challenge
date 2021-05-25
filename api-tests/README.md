@@ -5,26 +5,15 @@
 ### Please install
 
 - nvm (https://github.com/nvm-sh/nvm)
-- yarn
 
-
-#### Before first run
-
+### Before first run
+Open a terminal, go to the root of this repo and:
 - `nvm use`
-- `yarn install`
+- `npm install`
 
-#### Run tests
+**Important:** Tests require 'backend' application from 'Hopin-Exam-QE' to be up and running.
 
-Currently the test could be run only form cypress test runner. I faced the issue with jest that I can rid off
-`SyntaxError: Cannot use import statement outside a module`
-Please open Test Runner by typing `yarn open` and then run the test from cypress.
+### Running tests
 
-#### User Accounts
+- `npm test:api`
 
-To log into Sock Shop and complete a transaction, you'll need credentials.
-
-| Username   | Password |
-| ---------- | -------- |
-| user       | password |
-| user1      | password |
-| Eve_Berger | eve      |
