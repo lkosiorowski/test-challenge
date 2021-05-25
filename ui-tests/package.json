@@ -1,10 +1,10 @@
 {
-  "name": "api-tests",
+  "name": "uitests",
   "version": "1.0.0",
-  "description": "Api tests for Customers App",
+  "description": "UI tests for Customers App",
   "main": "index.js",
   "scripts": {
-    "test:api": "npx cypress run --spec \"cypress/integration/customerAppApi.js\""
+    "test:ui": "npx cypress run --spec \"cypress/integration/customersAppUI.spec.js\""
   },
   "author": "Lukasz Kosiorowski",
   "license": "ISC",

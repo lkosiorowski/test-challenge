@@ -1,4 +1,4 @@
-#API tests for Customers App
+#UI tests for Customers App
 
 ## Before start
 
@@ -11,9 +11,9 @@ Open a terminal, go to the root of this repo and:
 - `nvm use`
 - `npm install`
 
-**Important:** Tests require 'backend' application from 'Hopin-Exam-QE' to be up and running.
+**Important:** Tests require 'backend' and 'frontend' application from 'Hopin-Exam-QE' to be up and running.
 
 ### Running tests
 
-- `npm run test:api`
+- `npm run test:ui`
 
