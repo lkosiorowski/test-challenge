@@ -4,7 +4,7 @@
   "description": "Api tests for Customers App",
   "main": "index.js",
   "scripts": {
-    "test:api": "npx cypress run --spec \"cypress/integration/customerAppApi.js\""
+    "test:api": "npx cypress run --spec \"cypress/integration/customerAppApi.spec.js\""
   },
   "author": "Lukasz Kosiorowski",
   "license": "ISC",
