@@ -1,0 +1,14 @@
+{
+  "name": "api-tests",
+  "version": "1.0.0",
+  "description": "Api tests for Customers App",
+  "main": "index.js",
+  "scripts": {
+    "test:api": "npx cypress run --spec \"cypress/integration/customerAppApi.js\""
+  },
+  "author": "Lukasz Kosiorowski",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.3.0"
+  }
+}
