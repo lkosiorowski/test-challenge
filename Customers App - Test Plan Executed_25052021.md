@@ -1,4 +1,4 @@
-#Test Plan for Customer App
+# Test Plan for Customer App
 
 *Execution date:* 25 May 2021 <br>
 *Build version:* x.x.x<br>

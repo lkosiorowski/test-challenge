@@ -1,4 +1,4 @@
-#UI tests for Customers App
+# UI tests for Customers App
 
 ## Before start
 

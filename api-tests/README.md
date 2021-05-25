@@ -1,4 +1,4 @@
-#API tests for Customers App
+# API tests for Customers App
 
 ## Before start
 
