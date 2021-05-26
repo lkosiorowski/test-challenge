@@ -34,7 +34,6 @@ describe('Customers App - UI tests', () => {
                     })
                 })
             }
-
         })
     })
 

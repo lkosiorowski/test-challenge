@@ -6,8 +6,6 @@ class CustomersListPage {
     get tableRows() {
             return cy.get('tbody tr');
         }
-
-
 }
 
 export default new CustomersListPage();
